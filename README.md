@@ -22,6 +22,9 @@ DB_PORT=3306
 DB_DATABASE=laravelangularpro
 DB_USERNAME=root
 DB_PASSWORD=123
+El siguiente paso es crear las tablas en la base de datos configurada anteriormente mediante el comando:
+
+php artisan migrate 
 
 Luego levantar el proyecto con el comando:
 php artisan serve
