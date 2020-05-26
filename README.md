@@ -1,4 +1,4 @@
-# BackendProyectoMascotas
+# BackendProyectoMascotas Laravel 5.6.* y Mysql
 Backend en laravel con login, logout y crud de modelo mascota
 
 Para correrlo se debe correr los siguientes comandos dentro de la carpeta del proyecto:
